@@ -1,1 +1,1 @@
-![](SalamandraBanner.png)
+![](../SalamandraBanner.png)
